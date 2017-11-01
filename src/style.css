@@ -1,0 +1,17 @@
+/* 
+* @Author: anchen
+* @Date:   2017-10-21 21:42:45
+* @Last Modified by:   anchen
+* @Last Modified time: 2017-10-21 22:44:02
+*/
+.test-container {
+    text-align: center;
+    background-color: lightcyan;
+}
+.img_test {
+    background-image: url('../src/images/test.png');
+    width: 420px;
+    height: 356px;
+}
+
+

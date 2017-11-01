@@ -1,0 +1,4 @@
+D:\ESLint\src\index.js: line 1, col 23, Error - Strings must use singlequote. (quotes)
+D:\ESLint\src\index.js: line 5, col 8, Error - Strings must use singlequote. (quotes)
+
+2 problems
